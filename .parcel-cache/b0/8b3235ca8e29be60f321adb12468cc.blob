@@ -1,0 +1,12 @@
+"use strict";
+
+var _components = require("./components");
+
+class Page {
+  constructor() {
+    new _components.Header();
+    new _components.Content();
+    new _components.Footer();
+  }
+
+}

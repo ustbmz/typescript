@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <script src="be17e7ddbb821fbbc0cb40d07a6585de"></script>
+    <title>Document</title>
+  </head>
+  <body>
+    <script data-parcel-key="0f23ce1b66c8da728f2e92123e254583">
+      new Home.Page()
+    </script>
+  </body>
+</html>

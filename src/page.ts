@@ -1,6 +1,6 @@
 import { Header, Content, Footer } from './components'
 
-class Page {
+export default class Page {
   constructor() {
     new Header()
     new Content()

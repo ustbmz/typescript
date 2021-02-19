@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <script src="be17e7ddbb821fbbc0cb40d07a6585de"></script>
+    <script src="14d9bd2f9be827a548b8bbc0611177f4"></script>
+
+    <title>Document</title>
+  </head>
+  <body>
+    <script data-parcel-key="082e537e7364a9f141e77fd2eebc9518">
+      require('[page]', function (page) {
+        new page.default()
+      })
+    </script>
+  </body>
+</html>
